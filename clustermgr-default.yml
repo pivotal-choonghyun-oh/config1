@@ -1,5 +1,5 @@
 mgr:
   config:
     clustername: "ac-cluster"
-    shards: "3"
-    replica: "1"
+    shards: 3
+    replica: 1
