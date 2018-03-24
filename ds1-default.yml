@@ -1,0 +1,3 @@
+node:
+  manager:
+    uri: http://localhost:7071
