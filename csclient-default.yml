@@ -1,4 +1,4 @@
 mgr:
   config:
     clustername: "cluster1"
-    instances: "3"
+    instances: "5"
