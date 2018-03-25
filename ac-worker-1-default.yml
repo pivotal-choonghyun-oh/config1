@@ -1,0 +1,4 @@
+worker:
+  id: 1
+  from: "n"
+  to: "z"
