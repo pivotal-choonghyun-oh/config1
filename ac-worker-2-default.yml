@@ -1,7 +1,7 @@
 worker:
   id: 2
   from: "a"
-  to:   "f"
+  to:   "e"
 
 spring:
   rabbitmq:
