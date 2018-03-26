@@ -2,3 +2,11 @@ worker:
   id: 0
   from: "a"
   to: "m"
+
+spring:
+  rabbitmq:
+    host: config.store.appzen.net
+    port: 5672
+    username: admin
+    password: admin
+
