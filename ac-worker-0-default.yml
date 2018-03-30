@@ -3,6 +3,7 @@ worker:
   from: "a"
   to: "m"
   maxcnt: 20
+  datagen: true
 
 spring:
   rabbitmq:
