@@ -2,8 +2,8 @@ worker:
   id: 2
   from: "a"
   to: "n"
-  maxcnt: 20
-  datagen: true
+  maxcnt: 5
+  datagen: false
 
 spring:
   rabbitmq:
