@@ -1,7 +1,7 @@
 worker:
   id: 2
   from: "a"
-  to:   "e"
+  to: "n"
   maxcnt: 20
   datagen: true
 
