@@ -1,9 +1,10 @@
 worker:
   id: 2
-  from: "d"
+  from: "a"
   to: "s"
   maxcnt: 5
   datagen: false
+  handle_number: true
 
 spring:
   rabbitmq:

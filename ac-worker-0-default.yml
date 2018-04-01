@@ -4,6 +4,7 @@ worker:
   to: "k"
   maxcnt: 5
   datagen: false
+  handle_number: true
 
 spring:
   rabbitmq:
