@@ -1,7 +1,7 @@
 worker:
   id: 2
   from: "a"
-  to: "s"
+  to: "f"
   maxcnt: 5
   datagen: false
   handle_number: true
