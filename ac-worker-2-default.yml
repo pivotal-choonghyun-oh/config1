@@ -1,9 +1,9 @@
 worker:
   id: 2
   from: "a"
-  to: "f"
+  to: "z"
   maxcnt: 5
-  datagen: false
+  datagen: true
   handle_number: true
 
 spring:
