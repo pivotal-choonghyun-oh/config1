@@ -3,7 +3,7 @@ worker:
   from: "a"
   to: "k"
   maxcnt: 5
-  datagen: true
+  datagen: false
   handle_number: true
 
 spring:
