@@ -2,7 +2,7 @@ worker:
   id: 0
   from: "a"
   to: "k"
-  maxcnt: 5
+  maxcnt: 10
   datagen: false
   handle_number: true
 
